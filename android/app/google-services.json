@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "16433526669",
+    "project_id": "grandimperialuser",
+    "storage_bucket":"grandimperialuser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16433526669:android:78d686e587ff0f9670afc4",
+        "android_client_info": {
+          "package_name": "com.grandimperialuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16433526669-io6v0vcf1jur59me4cnurls8glpcpob3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grandimperialuser",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "16433526669-i6qim9u8fsroo677ncjikg8b1eiblq74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVKM9RKd4kY38ejrEvBISuiDh_QJZUJSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16433526669-i6qim9u8fsroo677ncjikg8b1eiblq74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
